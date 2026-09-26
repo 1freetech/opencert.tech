@@ -63,7 +63,9 @@ A 24 V source supplies two 12 Ω resistors in parallel. Their equivalent resista
 
 ## Video Reference
 
-YouTube: https://www.youtube.com/watch?v=sbocWMTmPK8
+YouTube: https://www.youtube.com/watch?v=7mdc-lRrW1c
+
+Selected from high-view topic matches: The Organic Chemistry Tutor, “Series and Parallel Circuits” (over 2.3 million views when checked September 26, 2026).
 
 ## Continue Learning
 
@@ -73,4 +75,4 @@ Practice identifying series and parallel sections before doing calculations. Onc
 
 - Khan Academy electrical engineering material on series and parallel circuits.
 - Vernier series and parallel circuit experiment resources.
-- Learning Engineering video reference.
+- The Organic Chemistry Tutor video reference.
