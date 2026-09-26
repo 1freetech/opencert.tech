@@ -1,5 +1,5 @@
 ---
-title: "Linux Command #28: Troubleshoot System Logs With journalctl"
+title: "Command #28 – `journalctl` (Linux OS)"
 publication_date: "2026-09-26"
 wordpress_post_id: 18625
 status: published
@@ -13,7 +13,7 @@ series: "Linux Commands"
 lesson_number: 28
 ---
 
-# Linux Command #28: Troubleshoot System Logs With journalctl
+# Command #28 – `journalctl` (Linux OS)
 
 Linux Command #28 covers `journalctl`, the command-line interface for reading and filtering logs collected by `systemd-journald`. For technicians and administrators, it is one of the fastest ways to investigate failed services, boot problems, authentication events, and other system behavior.
 
