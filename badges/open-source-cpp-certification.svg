@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+<rect width="800" height="800" rx="92" fill="#050807"/>
+<rect x="28" y="28" width="744" height="744" rx="72" fill="none" stroke="#65ff4b" stroke-width="6"/>
+<rect x="48" y="48" width="704" height="704" rx="58" fill="none" stroke="#24362a" stroke-width="2"/>
+<text x="400" y="96" text-anchor="middle" fill="#65ff4b" font-family="Consolas,monospace" font-size="25" font-weight="700" letter-spacing="4">OPENCERT.TECH</text>
+<g transform="translate(400 350)">
+<rect x="-200" y="-178" width="400" height="372" rx="45" fill="#111713" stroke="#65ff4b" stroke-width="8"/>
+<rect x="-153" y="-132" width="306" height="196" rx="22" fill="#030604" stroke="#334b39" stroke-width="5"/>
+<text x="0" y="-36" text-anchor="middle" fill="#65ff4b" font-family="Consolas,monospace" font-size="72" font-weight="700">C++</text>
+<path d="M-105 15h210" stroke="#65ff4b" stroke-width="4"/>
+<text x="0" y="48" text-anchor="middle" fill="#d7ffe0" font-family="Consolas,monospace" font-size="18">compile • build • run</text>
+<circle cx="-110" cy="121" r="26" fill="#050807" stroke="#65ff4b" stroke-width="5"/>
+<path d="M-110 101v40M-130 121h40" stroke="#65ff4b" stroke-width="8"/>
+<circle cx="104" cy="109" r="13" fill="#65ff4b"/><circle cx="136" cy="137" r="13" fill="#65ff4b"/>
+<text x="0" y="104" text-anchor="middle" fill="#d7ffe0" font-family="Consolas,monospace" font-size="19" font-weight="700">C++</text>
+</g>
+<text x="400" y="592" text-anchor="middle" fill="#ffffff" font-family="Consolas,monospace" font-size="35" font-weight="700">Open-Source C++</text>
+<text x="400" y="638" text-anchor="middle" fill="#65ff4b" font-family="Consolas,monospace" font-size="32" font-weight="700">Certification</text>
+<text x="400" y="716" text-anchor="middle" fill="#9bb7a2" font-family="Consolas,monospace" font-size="18" letter-spacing="2">BITCOINVERSUS.TECH - OPEN CREDENTIAL</text>
+</svg>
