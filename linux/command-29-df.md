@@ -1,5 +1,5 @@
 ---
-title: "Linux Command #29 – df (Linux OS): Check Available Disk Space"
+title: "Linux Command #29 – df (Linux OS)"
 status: published
 wordpress_post_id: 19232
 wordpress_status: publish
@@ -10,7 +10,7 @@ command_number: 29
 youtube: "https://www.youtube.com/watch?v=dcBWezi-yOY"
 ---
 
-# Linux Command #29 – df (Linux OS): Check Available Disk Space
+# Linux Command #29 – df (Linux OS)
 
 The Linux `df` command answers a simple question: **how much storage space is available?**
 
