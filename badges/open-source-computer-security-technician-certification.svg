@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+<rect width="800" height="800" rx="92" fill="#050807"/>
+<rect x="28" y="28" width="744" height="744" rx="72" fill="none" stroke="#65ff4b" stroke-width="6"/>
+<rect x="48" y="48" width="704" height="704" rx="58" fill="none" stroke="#24362a" stroke-width="2"/>
+<text x="400" y="96" text-anchor="middle" fill="#65ff4b" font-family="Consolas,monospace" font-size="25" font-weight="700" letter-spacing="4">OPENCERT.TECH</text>
+<g transform="translate(400 350)">
+<rect x="-200" y="-178" width="400" height="372" rx="45" fill="#111713" stroke="#65ff4b" stroke-width="8"/>
+<rect x="-153" y="-132" width="306" height="196" rx="22" fill="#030604" stroke="#334b39" stroke-width="5"/>
+<path d="M0 -105L92 -70v72c0 66-39 108-92 132C-53 110-92 68-92 2v-72z" fill="#09110b" stroke="#65ff4b" stroke-width="7" stroke-linejoin="round"/>
+<rect x="-38" y="-22" width="76" height="68" rx="10" fill="#050807" stroke="#d7ffe0" stroke-width="6"/>
+<path d="M-24 -22v-20c0-33 48-33 48 0v20" fill="none" stroke="#d7ffe0" stroke-width="6"/>
+<circle cx="0" cy="8" r="8" fill="#65ff4b"/><path d="M0 16v15" stroke="#65ff4b" stroke-width="6"/>
+<path d="M-124 -78h34M90 -78h34M-132 24h38M94 24h38M-108 82h32M76 82h32" stroke="#65ff4b" stroke-width="5"/>
+<circle cx="-110" cy="143" r="24" fill="#050807" stroke="#65ff4b" stroke-width="5"/>
+<path d="M-110 125v36M-128 143h36" stroke="#65ff4b" stroke-width="7"/>
+<circle cx="108" cy="132" r="12" fill="#65ff4b"/><circle cx="138" cy="156" r="12" fill="#65ff4b"/>
+<text x="0" y="151" text-anchor="middle" fill="#d7ffe0" font-family="Consolas,monospace" font-size="16" font-weight="700">SECURITY • TIER 1</text>
+</g>
+<text x="400" y="574" text-anchor="middle" fill="#ffffff" font-family="Consolas,monospace" font-size="28" font-weight="700">Open-Source Computer Security</text>
+<text x="400" y="616" text-anchor="middle" fill="#ffffff" font-family="Consolas,monospace" font-size="29" font-weight="700">Technician</text>
+<text x="400" y="657" text-anchor="middle" fill="#65ff4b" font-family="Consolas,monospace" font-size="27" font-weight="700">Certification • Tier 1</text>
+<text x="400" y="716" text-anchor="middle" fill="#9bb7a2" font-family="Consolas,monospace" font-size="18" letter-spacing="2">BITCOINVERSUS.TECH - OPEN CREDENTIAL</text>
+</svg>
