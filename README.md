@@ -15,6 +15,8 @@ Open-source technical training curriculum mirrored from published BitcoinVersus.
 
 All badge assets are maintained in `badges/` and use the OpenCert.tech open-credential visual system.
 
+- [Open-Source Windows Certification](badges/open-source-windows-certification.svg)
+
 - [Open-Source Linux Certification](badges/open-source-linux-certification.svg)
 - [Open-Source C++ Certification](badges/open-source-cpp-certification.svg)
 - [Open-Source Python Certification](badges/open-source-python-certification.svg)
