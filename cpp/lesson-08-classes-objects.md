@@ -1,15 +1,15 @@
 ---
-title: "C++ Lesson 8: Classes and Objects"
+title: "C++ Lesson 008: Classes and Objects"
 status: published
 wordpress_post_id: 19543
 published: "2026-09-30T01:22:23"
 live_url: "https://bitcoinversus.tech/2026/09/30/cpp-lesson-8-classes-objects/"
 series: "C++ Lessons"
-lesson_number: 8
+lesson_number: 008
 youtube: "https://www.youtube.com/watch?v=_8H2n0nDfd4"
 ---
 
-# C++ Lesson 8: Classes and Objects
+# C++ Lesson 008: Classes and Objects
 
 A C++ **class** describes a kind of thing in a program. An **object** is one actual thing created from that class.
 
