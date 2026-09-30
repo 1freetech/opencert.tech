@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 6: References and Pass by Reference"
+title: "C++ Lesson 006: References and Pass by Reference"
 source: "https://bitcoinversus.tech/2026/09/25/cpp-lesson-6-references-pass-by-reference/"
 published: "2026-09-25T23:06:10"
 wordpress_id: 18573
