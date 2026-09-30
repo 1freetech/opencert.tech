@@ -1,16 +1,16 @@
 ---
-title: "C++ Lesson 7: Pointers and Memory Addresses"
+title: "C++ Lesson 007: Pointers and Memory Addresses"
 status: published
 wordpress_post_id: 18634
 wordpress_status: publish
 live_url: "https://bitcoinversus.tech/2026/09/26/c-lesson-7-pointers-and-memory-addresses/"
 published: "2026-09-26T22:26:10"
 series: "C++ Lessons"
-lesson_number: 7
+lesson_number: 007
 youtube: "https://www.youtube.com/watch?v=zuegQmMdy8M"
 ---
 
-# C++ Lesson 7: Pointers and Memory Addresses
+# C++ Lesson 007: Pointers and Memory Addresses
 
 C++ Lesson 7 continues directly from references and pass-by-reference by introducing pointers and memory addresses. A pointer stores the memory address of another object. Pointers are fundamental to arrays, dynamic memory, data structures, APIs, and systems programming.
 
