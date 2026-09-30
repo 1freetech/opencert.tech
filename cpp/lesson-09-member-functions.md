@@ -1,17 +1,17 @@
 ---
-title: "C++ Lesson 9: Member Functions"
+title: "C++ Lesson 009: Member Functions"
 status: published
 wordpress_post_id: 19567
 published: "2026-09-30T11:16:38"
 live_url: "https://bitcoinversus.tech/2026/09/30/cpp-lesson-9-member-functions/"
 series: "C++ Lessons"
-lesson_number: 9
+lesson_number: 009
 featured_image: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/09/cpp-lesson-9-member-functions-cover-1200x630-1.png"
 featured_image_dimensions: "1200x630"
 youtube: "https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=12881s"
 ---
 
-# C++ Lesson 9: Member Functions
+# C++ Lesson 009: Member Functions
 
 A **member function** is a function that belongs to a class. It lets an object perform an action using the data stored inside that object.
 
