@@ -34,7 +34,7 @@ Engineer-specific lessons are stored under `engineer/` as they are classified or
 
 - [OSEEC.004: Kirchhoff’s Laws: KVL and KCL](engineer/oseec-004-kirchhoffs-laws-kvl-kcl.md) — published September 30, 2026. OSEEC.005: AC Fundamentals is scheduled, and OSEEC.006: Capacitance, Inductance, and Reactance is a draft; verify their content and status before the next publication.
 
-Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. Networking is next (OSNTC.004; verify latest live numbering).
+Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. OSNTC.004: VLAN Basics was published September 30, 2026. Python is next (OSPython.009; verify latest live numbering).
 
 ## Archive rules
 
