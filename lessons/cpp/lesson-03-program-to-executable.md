@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 3: How a C++ Program Becomes an Executable"
+title: "OSC++.003: How a C++ Program Becomes an Executable"
 source: BitcoinVersus.tech
 wordpress_post_id: 13912
 published: 2025-07-12T08:00:00
