@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 1: Foundations of C++"
+title: "OSC++.001: Foundations of C++"
 source: BitcoinVersus.tech
 wordpress_post_id: 13352
 published: 2025-05-18T11:33:10
