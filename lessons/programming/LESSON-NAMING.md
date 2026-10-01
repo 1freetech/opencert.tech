@@ -9,4 +9,8 @@ Preserve exact capitalization and punctuation. Each subject has its own sequenti
 
 Use these prefixes in new post titles, featured-cover text, module references, and archive metadata. Existing post titles and archive copies have been renamed; existing cover artwork has not been regenerated in this naming-only update.
 
-Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSPython.008 was published September 30, 2026. Linux is next in the rotation.
+Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSPython.008 was published September 30, 2026. Linux Command #30 – du (Linux OS) was published September 30, 2026. Windows is next in the rotation.
+
+## Legacy operating-system titles
+
+Linux and Windows retain their respective existing title structures. Use `Linux Command #30 – du (Linux OS)` and `Windows Command #18 – COMMAND (Windows OS)` style, with ordinary legacy command numbers. Do not apply OS-prefixed certification titles or three-digit display numbering to those series.
