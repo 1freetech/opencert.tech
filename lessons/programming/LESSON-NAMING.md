@@ -14,3 +14,7 @@ Rotation: Networking → Python → Linux → Windows → Electrical Engineering
 ## Legacy operating-system titles
 
 Linux and Windows retain their respective existing title structures. Use `Linux Command #30 – du (Linux OS)` and `Windows Command #18 – COMMAND (Windows OS)` style, with ordinary legacy command numbers. Do not apply OS-prefixed certification titles or three-digit display numbering to those series.
+
+## Electrical engineer titles
+
+Use `OSEEC.000: Lesson Title` through `OSEEC.0xx: Lesson Title`, with three-digit numbering and the OSEEC prefix. Published sequence: OSEEC.000–OSEEC.004. OSEEC.005 is scheduled; OSEEC.006 is a draft. The existing scheduled copy of lesson 002 remains scheduled and must be checked for duplication before publication. OSETC retains its independent technician sequence.
