@@ -9,7 +9,7 @@ Preserve exact capitalization and punctuation. Each subject has its own sequenti
 
 Use these prefixes in new post titles, featured-cover text, module references, and archive metadata. Existing post titles and archive copies have been renamed; existing cover artwork has not been regenerated in this naming-only update.
 
-Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSPython.008 was published September 30, 2026. Linux Command #30 – du (Linux OS) was published September 30, 2026. Windows Command #18 – pathping (Windows OS) was published September 30, 2026. Electrical Engineering is next in the rotation.
+Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSPython.008 was published September 30, 2026. Linux Command #30 – du (Linux OS) was published September 30, 2026. Windows Command #18 – pathping (Windows OS) was published September 30, 2026. OSEEC.004: Kirchhoff’s Laws: KVL and KCL was published September 30, 2026. OSETC is next in the rotation.
 
 ## Legacy operating-system titles
 
