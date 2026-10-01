@@ -1,5 +1,5 @@
 ---
-title: "Python #4: For Loops, Range, and Iteration"
+title: "OSPython.004: For Loops, Range, and Iteration"
 status: published
 wordpress_post_id: 18697
 wordpress_status: publish
