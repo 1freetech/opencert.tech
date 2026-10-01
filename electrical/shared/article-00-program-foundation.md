@@ -1,5 +1,5 @@
 ---
-title: "OSEE Training Article 0: What We Are Building, How We Are Building It, and Why"
+title: "OSEEC.000: What We Are Building, How We Are Building It, and Why"
 role: "Technician / Engineer shared foundation"
 tier: 1
 wordpress_post_id: 16970
@@ -8,7 +8,7 @@ live_url: "https://bitcoinversus.tech/2026/07/12/article-0-what-we-are-building-
 status: published
 ---
 
-# OSEE Training Article 0: What We Are Building, How We Are Building It, and Why
+# OSEEC.000: What We Are Building, How We Are Building It, and Why
 
 
 <h1 class="wp-block-heading" style="font-size:clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.98), 16px);">The BitcoinVersus.Tech Open-Source Electrical Training Program is an independent technical education project built to study, organize, explain, and compare electrical standards and procedures used throughout the world.</h1>
