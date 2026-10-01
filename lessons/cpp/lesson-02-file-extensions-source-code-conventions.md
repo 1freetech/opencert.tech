@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 2: File Extensions and Source Code Conventions in C++"
+title: "OSC++.002: File Extensions and Source Code Conventions in C++"
 source: BitcoinVersus.tech
 wordpress_post_id: 13565
 published: 2025-05-28T08:09:00
