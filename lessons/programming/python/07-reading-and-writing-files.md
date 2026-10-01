@@ -1,4 +1,4 @@
-# Open-Source Python Lesson #7: Reading and Writing Files
+# OSPython.007: Reading and Writing Files
 
 - Published: 2026-09-27
 - Presentation update: 2026-09-27 — removed boxed code formatting to prevent narrow-screen overflow; code text preserved.
@@ -8,7 +8,7 @@
 - Subject: Computer Programming / Python / File I/O
 - Video reference: https://www.youtube.com/watch?v=BRrem1k3904
 
-Open-Source Python Lesson #7 introduces file input and output. After learning exceptions in Lesson #6, the next practical step is saving information to disk and reading it back.
+OSPython.007 introduces file input and output. After learning exceptions in Lesson #6, the next practical step is saving information to disk and reading it back.
 
 ## Open a file safely
 
