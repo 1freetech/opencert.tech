@@ -12,7 +12,7 @@ lesson_number: "018"
 featured_media_id: 19919
 featured_image_url: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/10/osetc-018-interlocks-permissives-basics-cover-1200x630-1.png"
 featured_image_dimensions: "1200x630"
-youtube: "https://www.youtube.com/watch?v=9uMIQycxygQ"
+youtube: "https://www.youtube.com/watch?v=fab9xMFCasw"
 ---
 
 # OSETC.018: Interlocks and Permissives Basics
@@ -33,7 +33,7 @@ Fan 2 can require proof that Fan 1 is running. An auxiliary contact associated w
 
 ## Video
 
-https://www.youtube.com/watch?v=9uMIQycxygQ
+https://www.youtube.com/watch?v=fab9xMFCasw
 
 ## Forward and Reverse Example
 
