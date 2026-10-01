@@ -1,5 +1,5 @@
 ---
-title: "OSEE Training Article 1: How Electrical Codes, Standards, Laws, and Jurisdictions Work"
+title: "OSEEC.001: How Electrical Codes, Standards, Laws, and Jurisdictions Work"
 role: "Technician / Engineer shared foundation"
 tier: 1
 wordpress_post_id: 16960
@@ -8,7 +8,7 @@ live_url: "https://bitcoinversus.tech/2026/07/15/the-bitcoinversus-tech-open-sou
 status: published
 ---
 
-# OSEE Training Article 1: How Electrical Codes, Standards, Laws, and Jurisdictions Work
+# OSEEC.001: How Electrical Codes, Standards, Laws, and Jurisdictions Work
 
 
 <p class="wp-block-paragraph">There is no single electrical code, license, organization, or enforcement authority governing every electrical installation in the world.</p>
