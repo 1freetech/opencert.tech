@@ -1,5 +1,5 @@
 ---
-title: "Python: Lists, Tuples, and Sets"
+title: "OSPython.002: Lists, Tuples, and Sets"
 date: "2026-09-26T09:32:34"
 status: "publish"
 wordpress_post_id: 18599
