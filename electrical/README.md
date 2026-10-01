@@ -16,7 +16,9 @@ Technician lessons emphasize field skills, measurement, equipment, safety, opera
 - [Electrical Engineering Tech Doc #1 – Digital Multimeter Basics](technician/digital-multimeter-basics.md)
 - [OSET.001: Real, Reactive, and Apparent Power](technician/oset-001-real-reactive-apparent-power.md)
 
-- [OSETC.011: Lockout/Tagout and Energy Isolation](../lessons/electrical/OSETC/OSETC.011-lockout-tagout-energy-isolation.md) — published September 30, 2026.\n- [OSETC.012: Grounding and Bonding Basics](../lessons/electrical/OSETC/OSETC.012-grounding-bonding-basics.md) — published October 1, 2026.
+- [OSETC.011: Lockout/Tagout and Energy Isolation](../lessons/electrical/OSETC/OSETC.011-lockout-tagout-energy-isolation.md) — published September 30, 2026.
+- [OSETC.012: Grounding and Bonding Basics](../lessons/electrical/OSETC/OSETC.012-grounding-bonding-basics.md) — published October 1, 2026.
+- [OSETC.013: Ground-Fault Circuit Interrupters (GFCIs)](../lessons/electrical/OSETC/OSETC.013-ground-fault-circuit-interrupters.md) — published October 1, 2026.
 
 ## Engineer — Tier 2
 
@@ -34,7 +36,7 @@ Engineer-specific lessons are stored under `engineer/` as they are classified or
 
 - [OSEEC.004: Kirchhoff’s Laws: KVL and KCL](engineer/oseec-004-kirchhoffs-laws-kvl-kcl.md) — published September 30, 2026. [OSEEC.005: AC Fundamentals](engineer/oseec-005-ac-fundamentals.md) was published October 1, 2026. OSEEC.006: Capacitance, Inductance, and Reactance is a draft; verify its content before the next engineer publication.
 
-Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. OSNTC.004: VLAN Basics was published September 30, 2026. OSPython.009: Virtual Environments was published October 1, 2026. Linux Command #31 – stat (Linux OS) was published October 1, 2026. Windows Command #19 – arp (Windows OS) was published October 1, 2026. OSEEC.005: AC Fundamentals was published October 1, 2026. OSETC.012: Grounding and Bonding Basics was published October 1, 2026. C++ is next in the rotation.
+Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. OSNTC.004: VLAN Basics was published September 30, 2026. OSPython.009: Virtual Environments was published October 1, 2026. Linux Command #31 – stat (Linux OS) was published October 1, 2026. Windows Command #19 – arp (Windows OS) was published October 1, 2026. OSEEC.005: AC Fundamentals was published October 1, 2026. OSETC.012: Grounding and Bonding Basics was published October 1, 2026. OSETC.013: Ground-Fault Circuit Interrupters (GFCIs) was published October 1, 2026. C++ is next in the rotation.
 
 ## Archive rules
 
