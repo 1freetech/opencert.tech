@@ -1,5 +1,5 @@
 ---
-title: "OSEE Training Article 0: What We Are Building, How We Are Building It, and Why"
+title: "OSEEC.000: What We Are Building, How We Are Building It, and Why"
 source: BitcoinVersus.tech
 wordpress_post_id: 16970
 published: 2026-07-12T23:52:22
