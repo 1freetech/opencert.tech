@@ -1,5 +1,5 @@
 ---
-title: "The BitcoinVersus.Tech Open-Source Electrical Engineering Training Program Article 2: Voltage, Current, Resistance, and Power"
+title: "OSEEC.002: Voltage, Current, Resistance, and Power"
 date: "2026-09-24T23:58:16"
 wordpress_post_id: 18475
 live_url: "https://bitcoinversus.tech/2026/09/24/open-source-electrical-engineering-training-article-2-voltage-current-resistance-power/"
@@ -9,7 +9,7 @@ categories:
   - Tech Docs
 ---
 
-# The BitcoinVersus.Tech Open-Source Electrical Engineering Training Program Article 2: Voltage, Current, Resistance, and Power
+# OSEEC.002: Voltage, Current, Resistance, and Power
 
 Article 2 establishes four quantities that appear throughout nearly every later electrical lesson: voltage, current, resistance, and power. The goal is not memorization alone. It is learning what each quantity means when looking at a real circuit, meter reading, power supply, rack, or piece of industrial equipment.
 
