@@ -18,6 +18,8 @@ Technician lessons emphasize field skills, measurement, equipment, safety, opera
 
 ## Engineer — Tier 2
 
+Use `OSEEC.004: Lesson Title` naming for the Open-Source Electrical Engineer Certification, with sequential three-digit lesson numbers. Technician lessons use OSETC and keep their separate sequence.
+
 Engineer study inherits the shared electrical foundations above. Engineer-specific lessons build beyond those prerequisites into analysis, design, power systems, protection, distribution, three-phase systems, transformers, controls, and electronics.
 
 ### Required shared prerequisites
@@ -27,6 +29,10 @@ Engineer study inherits the shared electrical foundations above. Engineer-specif
 4. Article 3 — Series and Parallel Circuits
 
 Engineer-specific lessons are stored under `engineer/` as they are classified or created.
+
+- [OSEEC.004: Kirchhoff’s Laws: KVL and KCL](engineer/oseec-004-kirchhoffs-laws-kvl-kcl.md) — published September 30, 2026. The next engineer lesson is OSEEC.005; verify live numbering before publishing.
+
+Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSETC is next after OSEEC.004.
 
 ## Archive rules
 
