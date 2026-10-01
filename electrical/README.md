@@ -16,6 +16,8 @@ Technician lessons emphasize field skills, measurement, equipment, safety, opera
 - [Electrical Engineering Tech Doc #1 – Digital Multimeter Basics](technician/digital-multimeter-basics.md)
 - [OSET.001: Real, Reactive, and Apparent Power](technician/oset-001-real-reactive-apparent-power.md)
 
+- [OSETC.011: Lockout/Tagout and Energy Isolation](../lessons/electrical/OSETC/OSETC.011-lockout-tagout-energy-isolation.md) — published September 30, 2026.
+
 ## Engineer — Tier 2
 
 Use `OSEEC.004: Lesson Title` naming for the Open-Source Electrical Engineer Certification, with sequential three-digit lesson numbers. Technician lessons use OSETC and keep their separate sequence.
@@ -32,7 +34,7 @@ Engineer-specific lessons are stored under `engineer/` as they are classified or
 
 - [OSEEC.004: Kirchhoff’s Laws: KVL and KCL](engineer/oseec-004-kirchhoffs-laws-kvl-kcl.md) — published September 30, 2026. OSEEC.005: AC Fundamentals is scheduled, and OSEEC.006: Capacitance, Inductance, and Reactance is a draft; verify their content and status before the next publication.
 
-Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSETC is next after OSEEC.004.
+Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. C++ is next (OSC++.011; verify latest live numbering).
 
 ## Archive rules
 
