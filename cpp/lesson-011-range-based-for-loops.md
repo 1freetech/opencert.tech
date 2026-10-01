@@ -61,7 +61,7 @@ youtube: "https://www.youtube.com/watch?v=-TkoO8Z07hI&t=11140s"
 <p>Bro Code’s C++ course covers the same loop style in its “Foreach loop” section at 3:05:40. Watch that short section, then return to the copy-versus-reference exercise below. In standard C++, the syntax is <code>for</code> with a colon, as shown above.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=-TkoO8Z07hI&t=11140s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=-TkoO8Z07hI\u0026amp;t=11140s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=-TkoO8Z07hI&amp;t=11140s
 </div></figure>
