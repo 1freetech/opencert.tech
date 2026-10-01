@@ -10,6 +10,10 @@ status: published
 
 # OSEEC.002: Voltage, Current, Resistance, and Power
 
+<p><strong>In simple terms:</strong> Think of a simple DC circuit like water moving through a pipe. Voltage is like the pressure difference that drives flow. Current is like the amount flowing each second. Resistance makes flow harder. Power tells you how quickly energy is delivered or used. For example, a 12 V device drawing 2 A uses 24 W. The water comparison is only a memory aid, but it helps separate the four ideas before you use the formulas.</p>
+
+<p><strong>Definitions:</strong> <strong>Voltage (V)</strong> is electrical potential difference between two points, measured in volts. <strong>Current (I)</strong> is the rate of electric-charge flow, measured in amperes (A). <strong>Resistance (R)</strong> is opposition to current, measured in ohms (Ω). <strong>Power (P)</strong> is the rate of energy transfer, measured in watts (W). One watt means one joule of energy per second.</p>
+
 <p>Article 2 of the BitcoinVersus.Tech Open-Source Electrical Engineering Training Program establishes four quantities that appear throughout nearly every later electrical lesson: voltage, current, resistance, and power. The goal is not memorization alone. It is learning what each quantity means when looking at a real circuit, meter reading, power supply, rack, or piece of industrial equipment.</p>
 <h2>Voltage: electrical potential difference</h2>
 <p>Voltage is the electrical potential difference between two points. A meter does not measure “voltage at one point” by itself; the reading is always a difference between the two measurement points. This is why identifying line, neutral, ground, and phase relationships matters in field work.</p>
