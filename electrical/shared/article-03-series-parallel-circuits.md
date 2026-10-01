@@ -14,6 +14,10 @@ status: published
 <p class="wp-block-paragraph">The BitcoinVersus.Tech Open-Source Electrical Engineering Training Program continues with Article 3. This lesson builds on voltage, current, resistance, and power by showing how components behave when they are connected in series or in parallel.</p>
 
 
+<p><strong>In simple terms:</strong> Series and parallel describe how you connect parts in a circuit. Imagine two lamps powered by a battery. In series, electricity has one route through both lamps, one after the other. Disconnect either lamp and you break that route, so both go out. In parallel, each lamp has its own route across the battery. Disconnect one lamp and the other can stay on. Remember: <strong>series means one path; parallel means separate paths.</strong></p>
+
+<p><strong>Definitions:</strong> A <strong>circuit</strong> is an electrical path; current needs a complete return path to flow. A <strong>series connection</strong> puts components along one path. A <strong>parallel connection</strong> puts components on separate branches connected across the same two points. A <strong>load</strong> uses electrical energy, such as a lamp or motor. A <strong>node</strong> is a connection point shared by circuit parts.</p>
+
 <h2 class="wp-block-heading">Series Circuits</h2>
 <p class="wp-block-paragraph">In a series circuit, components share one current path. The same current flows through each component. The source voltage is divided among the loads, and the individual voltage drops add to the source voltage.</p>
 <p class="wp-block-paragraph">For resistors in series:</p>
