@@ -1,5 +1,5 @@
 ---
-title: "Open-Source Python Lesson #6: Errors, Exceptions, Try, Except, Else, and Finally"
+title: "OSPython.006: Errors, Exceptions, Try, Except, Else, and Finally"
 status: published
 wordpress_post_id: 19197
 live_url: "https://bitcoinversus.tech/2026/09/27/open-source-python-lesson-6-errors-exceptions/"
@@ -8,7 +8,7 @@ lesson_number: 6
 youtube: "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
 ---
 
-# Open-Source Python Lesson #6: Errors, Exceptions, Try, Except, Else, and Finally
+# OSPython.006: Errors, Exceptions, Try, Except, Else, and Finally
 
 Exception handling using Bitcoin-mining telemetry, gaming input, and sports-stat examples.
 
