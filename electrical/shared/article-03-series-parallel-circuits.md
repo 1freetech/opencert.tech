@@ -1,5 +1,5 @@
 ---
-title: "Open-Source Electrical Engineering Training Program: Article 3 — Series and Parallel Circuits"
+title: "OSEEC.003: Series and Parallel Circuits"
 role: "Technician / Engineer shared foundation"
 tier: 1
 wordpress_post_id: 18617
@@ -8,7 +8,7 @@ live_url: "https://bitcoinversus.tech/2026/09/26/open-source-electrical-engineer
 status: published
 ---
 
-# Open-Source Electrical Engineering Training Program: Article 3 — Series and Parallel Circuits
+# OSEEC.003: Series and Parallel Circuits
 
 
 <p class="wp-block-paragraph">The BitcoinVersus.Tech Open-Source Electrical Engineering Training Program continues with Article 3. This lesson builds on voltage, current, resistance, and power by showing how components behave when they are connected in series or in parallel.</p>
