@@ -1,5 +1,5 @@
 ---
-title: "Python: Functions, Parameters, and Return Values"
+title: "OSPython.001: Functions, Parameters, and Return Values"
 date: "2026-09-24T22:14:21"
 wordpress_post_id: 18465
 live_url: "https://bitcoinversus.tech/2026/09/24/python-functions-parameters-return-values/"
