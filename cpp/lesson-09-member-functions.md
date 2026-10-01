@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 009: Member Functions"
+title: "OSC++.009: Member Functions"
 status: published
 wordpress_post_id: 19567
 published: "2026-09-30T11:16:38"
@@ -11,7 +11,7 @@ featured_image_dimensions: "1200x630"
 youtube: "https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=12881s"
 ---
 
-# C++ Lesson 009: Member Functions
+# OSC++.009: Member Functions
 
 A **member function** is a function that belongs to a class. It lets an object perform an action using the data stored inside that object.
 
