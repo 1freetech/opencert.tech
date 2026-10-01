@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 007: Pointers and Memory Addresses"
+title: "OSC++.007: Pointers and Memory Addresses"
 status: published
 wordpress_post_id: 18634
 wordpress_status: publish
@@ -10,9 +10,9 @@ lesson_number: 007
 youtube: "https://www.youtube.com/watch?v=zuegQmMdy8M"
 ---
 
-# C++ Lesson 007: Pointers and Memory Addresses
+# OSC++.007: Pointers and Memory Addresses
 
-C++ Lesson 7 continues directly from references and pass-by-reference by introducing pointers and memory addresses. A pointer stores the memory address of another object. Pointers are fundamental to arrays, dynamic memory, data structures, APIs, and systems programming.
+OSC++.007 continues directly from references and pass-by-reference by introducing pointers and memory addresses. A pointer stores the memory address of another object. Pointers are fundamental to arrays, dynamic memory, data structures, APIs, and systems programming.
 
 ## Create and Dereference a Pointer
 
