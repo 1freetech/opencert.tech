@@ -14,6 +14,10 @@ youtube: "https://www.youtube.com/watch?v=6F_rmZ1nXFQ"
 
 # OSEEC.004: Kirchhoff’s Laws: KVL and KCL
 
+**In simple terms:** Kirchhoff’s laws are two balancing checks. At a junction, current entering must equal current leaving: if 4 A arrives and one branch takes 1 A, the other takes 3 A. Around a simple closed DC loop, the voltage rises and drops must balance: a 12 V source and drops of 5 V and 7 V give +12 − 5 − 7 = 0. Remember: **KCL checks a junction; KVL checks a loop.**
+
+**Definitions:** A **junction**, or node, is where circuit paths connect. A **branch** is one path between nodes. A **loop** is a path that returns to its starting point. **KCL** means Kirchhoff’s Current Law: current in equals current out. **KVL** means Kirchhoff’s Voltage Law: signed voltage changes around a loop add to zero. A **voltage rise** increases potential; a **voltage drop** decreases it along your chosen direction.
+
 A control-circuit drawing shows several branches, but the numbers do not seem to agree. Before deciding which component is faulty, an engineer checks whether the proposed circuit behavior balances. Kirchhoff’s laws give you two checks: current at a junction and voltage around a loop.
 
 OSEEC is the Open-Source Electrical Engineer Certification series. Lesson 004 builds on [Article 3: Series and Parallel Circuits](https://bitcoinversus.tech/2026/09/26/open-source-electrical-engineering-training-program-article-3-series-and-parallel-circuits/). Work through the examples on paper or in a circuit simulator.
