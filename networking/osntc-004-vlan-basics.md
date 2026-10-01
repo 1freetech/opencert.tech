@@ -69,7 +69,7 @@ youtube: "https://www.youtube.com/watch?v=MmwF1oHOvmg"
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>PowerCert Animated Videos gives a short visual introduction to what VLANs are. Watch the explanation here, then use the office example below to check what VLAN membership does and does not tell us.</p>
+<p>Practical Networking gives a short visual introduction to what VLANs are. Watch the explanation here, then use the office example below to check what VLAN membership does and does not tell us.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:embed {"url":"https://www.youtube.com/watch?v=MmwF1oHOvmg","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=MmwF1oHOvmg
 <!-- /wp:embed -->
 
 <!-- wp:paragraph -->
-<p><em>Video: “What are VLANs? — the simplest explanation” — PowerCert Animated Videos.</em></p>
+<p><em>Video: “What are VLANs? — the simplest explanation” — Practical Networking.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
