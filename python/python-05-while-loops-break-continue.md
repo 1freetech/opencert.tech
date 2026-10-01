@@ -1,5 +1,5 @@
 ---
-title: "Python #5: While Loops, Break, and Continue"
+title: "OSPython.005: While Loops, Break, and Continue"
 status: published
 wordpress_post_id: 19191
 wordpress_status: publish
