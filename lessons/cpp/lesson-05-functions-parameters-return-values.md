@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 5: Functions, Parameters, and Return Values"
+title: "OSC++.005: Functions, Parameters, and Return Values"
 date: "2026-09-24T21:11:15"
 wordpress_post_id: 18458
 live_url: "https://bitcoinversus.tech/2026/09/24/cpp-lesson-5-functions-parameters-return-values/"
@@ -11,7 +11,7 @@ categories:
   - technology
 ---
 
-# C++ Lesson 5: Functions, Parameters, and Return Values
+# OSC++.005: Functions, Parameters, and Return Values
 
 C++ functions let you package a task into a reusable block of code. Instead of repeating the same math or logic throughout a program, you can give that operation a name, pass information into it through parameters, and return a result.
 
