@@ -10,6 +10,10 @@ status: published
 
 # OSEEC.001: How Electrical Codes, Standards, Laws, and Jurisdictions Work
 
+<p><strong>In simple terms:</strong> An electrical rulebook tells you how work should be done, but you also need to know who makes those rules apply at your jobsite. A standards organization may publish a code; the government may adopt an edition and add local changes; an inspector or other responsible authority checks the work. Before using a rule, ask: Where is the job? Which rules apply? Which edition is required? Who approves the work?</p>
+
+<p><strong>Definitions:</strong> A <strong>standard</strong> is an agreed technical document. A <strong>code</strong> is an organized set of requirements. A <strong>law</strong> is a legally binding rule; a <strong>regulation</strong> is a rule issued by a government agency under legal authority. A <strong>jurisdiction</strong> is the area or subject an authority governs. The <strong>AHJ</strong>, or authority having jurisdiction, is the organization or person responsible for enforcing requirements or approving work within that authority.</p>
+
 
 <p class="wp-block-paragraph">There is no single electrical code, license, organization, or enforcement authority governing every electrical installation in the world.</p>
 
