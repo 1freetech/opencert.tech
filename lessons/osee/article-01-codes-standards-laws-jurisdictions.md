@@ -1,5 +1,5 @@
 ---
-title: "OSEE Training Article 1: How Electrical Codes, Standards, Laws, and Jurisdictions Work"
+title: "OSEEC.001: How Electrical Codes, Standards, Laws, and Jurisdictions Work"
 source: BitcoinVersus.tech
 wordpress_post_id: 16960
 published: 2026-07-15T06:21:00
