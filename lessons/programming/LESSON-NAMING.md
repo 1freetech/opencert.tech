@@ -5,11 +5,11 @@ User-approved naming as of September 30, 2026:
 - Python: `OSPython.001: Lesson Title`
 - C++: `OSC++.001: Lesson Title`
 
-Preserve exact capitalization and punctuation. Each subject has its own sequential three-digit number. The current published sequences are OSPython.001–OSPython.008 and OSC++.001–OSC++.011. Check latest live numbering before publishing the next lesson; at this update the next numbers are OSPython.009 and OSC++.012.
+Preserve exact capitalization and punctuation. Each subject has its own sequential three-digit number. The current published sequences are OSPython.001–OSPython.009 and OSC++.001–OSC++.011. Check latest live numbering before publishing the next lesson; at this update the next numbers are OSPython.010 and OSC++.012.
 
 Use these prefixes in new post titles, featured-cover text, module references, and archive metadata. Existing post titles and archive copies have been renamed; existing cover artwork has not been regenerated in this naming-only update.
 
-Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSPython.008 was published September 30, 2026. Linux Command #30 – du (Linux OS) was published September 30, 2026. Windows Command #18 – pathping (Windows OS) was published September 30, 2026. OSEEC.004: Kirchhoff’s Laws: KVL and KCL was published September 30, 2026. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. OSNTC.004: VLAN Basics was published September 30, 2026. Python is next (OSPython.009; verify latest live numbering).
+Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSPython.008 was published September 30, 2026. Linux Command #30 – du (Linux OS) was published September 30, 2026. Windows Command #18 – pathping (Windows OS) was published September 30, 2026. OSEEC.004: Kirchhoff’s Laws: KVL and KCL was published September 30, 2026. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. OSNTC.004: VLAN Basics was published September 30, 2026. OSPython.009: Virtual Environments was published October 1, 2026. Linux is next (verify the latest legacy lesson number).
 
 ## Legacy operating-system titles
 
