@@ -9,7 +9,7 @@ Preserve exact capitalization and punctuation. Each subject has its own sequenti
 
 Use these prefixes in new post titles, featured-cover text, module references, and archive metadata. Existing post titles and archive copies have been renamed; existing cover artwork has not been regenerated in this naming-only update.
 
-Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSPython.008 was published September 30, 2026. Linux Command #30 – du (Linux OS) was published September 30, 2026. Windows Command #18 – pathping (Windows OS) was published September 30, 2026. OSEEC.004: Kirchhoff’s Laws: KVL and KCL was published September 30, 2026. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. OSNTC.004: VLAN Basics was published September 30, 2026. OSPython.009: Virtual Environments was published October 1, 2026. Linux Command #31 – stat (Linux OS) was published October 1, 2026. Windows Command #19 – arp (Windows OS) was published October 1, 2026. Electrical Engineering is next (check OSEEC.005 scheduled status before publishing).
+Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSPython.008 was published September 30, 2026. Linux Command #30 – du (Linux OS) was published September 30, 2026. Windows Command #18 – pathping (Windows OS) was published September 30, 2026. OSEEC.004: Kirchhoff’s Laws: KVL and KCL was published September 30, 2026. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. OSNTC.004: VLAN Basics was published September 30, 2026. OSPython.009: Virtual Environments was published October 1, 2026. Linux Command #31 – stat (Linux OS) was published October 1, 2026. Windows Command #19 – arp (Windows OS) was published October 1, 2026. OSEEC.005: AC Fundamentals was published October 1, 2026. OSETC is next (verify the latest technician lesson number).
 
 ## Legacy operating-system titles
 
@@ -17,4 +17,4 @@ Linux and Windows retain their respective existing title structures. Use `Linux 
 
 ## Electrical engineer titles
 
-Use `OSEEC.000: Lesson Title` through `OSEEC.0xx: Lesson Title`, with three-digit numbering and the OSEEC prefix. Published sequence: OSEEC.000–OSEEC.004. OSEEC.005 is scheduled; OSEEC.006 is a draft. The existing scheduled copy of lesson 002 remains scheduled and must be checked for duplication before publication. OSETC retains its independent technician sequence.
+Use `OSEEC.000: Lesson Title` through `OSEEC.0xx: Lesson Title`, with three-digit numbering and the OSEEC prefix. Published sequence: OSEEC.000–OSEEC.005. OSEEC.006 is a draft. The existing scheduled copy of lesson 002 remains scheduled and must be checked for duplication before publication. OSETC retains its independent technician sequence.
