@@ -8,7 +8,7 @@ series: "Open-Source Electrical Engineer Certification"
 certification: OSEEC
 lesson_number: 4
 tier: 2
-featured_image: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/09/oseec-004-kirchhoff-cover.jpg"
+featured_image: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/09/oseec-004-cover-v2.jpg"
 youtube: "https://www.youtube.com/watch?v=6F_rmZ1nXFQ"
 ---
 
