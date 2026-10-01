@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 004: Header Files and the Rule of One Definition"
+title: "OSC++.004: Header Files and the Rule of One Definition"
 source: BitcoinVersus.tech
 wordpress_post_id: 13950
 published: 2025-07-14T08:00:00
