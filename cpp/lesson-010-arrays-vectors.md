@@ -1,5 +1,5 @@
 ---
-title: "C++ Lesson 010: Arrays and Vectors"
+title: "OSC++.010: Arrays and Vectors"
 status: published
 wordpress_post_id: 19580
 published: "2026-09-30T11:30:53"
@@ -11,7 +11,7 @@ featured_image_dimensions: "1200x630"
 youtube: "https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=4425s"
 ---
 
-# C++ Lesson 010: Arrays and Vectors
+# OSC++.010: Arrays and Vectors
 
 An **array** and a **vector** both let a C++ program keep several values together. A basic array has a fixed size, while a vector can grow or shrink.
 
