@@ -10,7 +10,7 @@ lesson_number: "022"
 featured_media_id: 20177
 featured_image_url: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/10/osetc-022-solenoids-solenoid-valves-basics-cover-1200x630-1.png"
 featured_image_dimensions: "1200x630"
-youtube_1: "https://www.youtube.com/watch?v=fiJa7vNuIvA"
+youtube_1: "https://www.youtube.com/watch?v=O5HmvDsW7gw"
 youtube_2: "https://www.youtube.com/watch?v=-MLGr1_Fw0c"
 youtube_3: "https://www.youtube.com/watch?v=ZYL_X9NwHvk"
 ---
@@ -27,10 +27,10 @@ Original published WordPress article content, preserved below in full:
 <ul class="wp-block-list"><li><strong>Coil:</strong> wire wound around a core area.</li><li><strong>Plunger:</strong> a movable metal piece.</li><li><strong>Spring:</strong> often returns the plunger when power is removed.</li><li><strong>Electrical terminals:</strong> connect the coil to its control voltage.</li></ul>
 <p class="wp-block-paragraph">When the coil is energized, its magnetic field moves the plunger. When power is removed, a spring or another mechanical force commonly returns it.</p>
 
-<h2 class="wp-block-heading">Video 1: Solenoid working principle</h2>
+<h2 class="wp-block-heading">Video 1: Solenoid valve working principle</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/fiJa7vNuIvA?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
-</div><figcaption class="wp-element-caption"><em>This animation shows the basic electromagnetic principle that makes a solenoid move.</em></figcaption></figure>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=O5HmvDsW7gw?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
+</div><figcaption class="wp-element-caption"><em>This focused animation shows how electrical solenoid action moves the valve mechanism and controls flow.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">From solenoid to solenoid valve</h2>
 <p class="wp-block-paragraph">A valve controls flow. Add an electrically operated solenoid to the valve, and an electrical control circuit can tell the valve when to change position.</p>
@@ -42,7 +42,7 @@ Original published WordPress article content, preserved below in full:
 
 <h2 class="wp-block-heading">Video 2: How solenoid valves work</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/-MLGr1_Fw0c?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=-MLGr1_Fw0c?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
 </div><figcaption class="wp-element-caption"><em>The Engineering Mindset explains the parts, operation, and common uses of solenoid valves.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">How this fits the control circuit</h2>
@@ -56,7 +56,7 @@ Original published WordPress article content, preserved below in full:
 
 <h2 class="wp-block-heading">Video 3: Solenoid valve animation</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/ZYL_X9NwHvk?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=ZYL_X9NwHvk?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
 </div><figcaption class="wp-element-caption"><em>This cutaway animation reinforces how the coil, plunger, and valve mechanism work together.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">Safety: control is not isolation</h2>
