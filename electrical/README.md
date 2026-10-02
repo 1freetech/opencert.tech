@@ -20,6 +20,8 @@ Technician lessons emphasize field skills, measurement, equipment, safety, opera
 - [OSETC.012: Grounding and Bonding Basics](../lessons/electrical/OSETC/OSETC.012-grounding-bonding-basics.md) — published October 1, 2026.
 - [OSETC.013: Ground-Fault Circuit Interrupters (GFCIs)](../lessons/electrical/OSETC/OSETC.013-ground-fault-circuit-interrupters.md) — published October 1, 2026.
 
+- [OSETC.019: Time-Delay Relays Basics](technician/osetc-019-time-delay-relays-basics.md) — published October 2, 2026, with three related YouTube embeds.
+
 ## Engineer — Tier 2
 
 Use `OSEEC.004: Lesson Title` naming for the Open-Source Electrical Engineer Certification, with sequential three-digit lesson numbers. Technician lessons use OSETC and keep their separate sequence.
@@ -50,4 +52,4 @@ Rotation: Networking → Python → Linux → Windows → Electrical Engineering
 OSEEC titles use three-digit numbering throughout: OSEEC.000–OSEEC.006 are published. Published, scheduled, and draft engineer article titles and existing archive title metadata/headings were standardized September 30, 2026. Existing URLs, archive paths, and cover artwork are retained.
 
 
-Latest verified rotation: OSEEC.006: Capacitance, Inductance, and Reactance was published October 2, 2026 and verified in WordPress and both GitHub archives. OSETC is next in the rotation. Verify its live sequence before publication.
+Latest verified rotation: OSEEC.006: Capacitance, Inductance, and Reactance was published October 2, 2026 and verified in WordPress and both GitHub archives. OSETC.019: Time-Delay Relays Basics was published October 2, 2026 with three related embedded YouTube videos and verified in WordPress and both GitHub archives. C++ is next in the rotation. Verify its live sequence before publication.
