@@ -10,7 +10,7 @@ lesson_number: "020"
 featured_media_id: 20079
 featured_image_url: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/10/osetc-020-limit-switches-proximity-sensors-cover-1200x630-1.png"
 featured_image_dimensions: "1200x630"
-youtube_1: "https://www.youtube.com/watch?v=e0JXanHLFYM"
+youtube_1: "https://www.youtube.com/watch?v=iMPFoYJ5b_Q"
 youtube_2: "https://www.youtube.com/watch?v=6565yt3FMKU"
 youtube_3: "https://www.youtube.com/watch?v=x2Ywl456YR4"
 ---
@@ -39,8 +39,8 @@ Original published WordPress article content, preserved below in full:
 <h2 class="wp-block-heading">Video 1: Industrial limit switch operation</h2>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/e0JXanHLFYM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
-</div><figcaption class="wp-element-caption"><em>13 en Ingeniería explains the internal operation and machine applications of industrial limit switches.</em></figcaption></figure>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/iMPFoYJ5b_Q?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
+</div><figcaption class="wp-element-caption"><em>Omron Automation Americas introduces its industrial limit-switch portfolio and shows how limit switches are applied in machine automation.</em></figcaption></figure>
 
 
 <h2 class="wp-block-heading">Proximity sensors: detect without mechanical contact</h2>
