@@ -21,6 +21,7 @@
 | Lesson | Topic | Source |
 | --- | --- | --- |
 | OSNEC.001 | OSPF Fundamentals | [Lesson](osnec-001-ospf-fundamentals.md) |
+| OSNEC.002 | Route Summarization Fundamentals | [Lesson](osnec-002-route-summarization-fundamentals.md) |
 
 ## Publishing rotation
 
