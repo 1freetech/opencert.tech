@@ -7,8 +7,8 @@ live_url: "https://bitcoinversus.tech/2026/10/02/linux-command-34-id/"
 series: "Linux Commands"
 lesson_number: "34"
 command: "id"
-featured_media_id: 19967
-featured_image_url: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/10/linux-command-34-id-cover.jpg"
+featured_media_id: 19979
+featured_image_url: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/10/linux-command-34-id-cover-v2.jpg"
 featured_image_dimensions: "1200x630"
 youtube: "https://www.youtube.com/watch?v=uiZrWIHX32Y"
 ---
@@ -30,11 +30,11 @@ id
 A typical result looks like this:
 
 ```text
-uid=1000(burton) gid=1000(burton) groups=1000(burton),27(sudo)
+uid=1000(bitcoin) gid=1000(bitcoin) groups=1000(bitcoin),27(sudo)
 ```
 
-- `uid=1000(burton)` means the username is `burton` and its numeric user ID is `1000`.
-- `gid=1000(burton)` identifies the account’s primary group.
+- `uid=1000(bitcoin)` means the username is `bitcoin` and its numeric user ID is `1000`.
+- `gid=1000(bitcoin)` identifies the account’s primary group.
 - `groups=...` lists the primary group plus supplementary groups. Membership in `sudo` may allow administrative commands when the system’s sudo policy permits them.
 
 ## Check Another Account
