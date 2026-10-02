@@ -34,7 +34,7 @@ Engineer study inherits the shared electrical foundations above. Engineer-specif
 
 Engineer-specific lessons are stored under `engineer/` as they are classified or created.
 
-- [OSEEC.004: Kirchhoff’s Laws: KVL and KCL](engineer/oseec-004-kirchhoffs-laws-kvl-kcl.md) — published September 30, 2026. [OSEEC.005: AC Fundamentals](engineer/oseec-005-ac-fundamentals.md) was published October 1, 2026. OSEEC.006: Capacitance, Inductance, and Reactance is a draft; verify its content before the next engineer publication.
+- [OSEEC.004: Kirchhoff’s Laws: KVL and KCL](engineer/oseec-004-kirchhoffs-laws-kvl-kcl.md) — published September 30, 2026. [OSEEC.005: AC Fundamentals](engineer/oseec-005-ac-fundamentals.md) was published October 1, 2026. [OSEEC.006: Capacitance, Inductance, and Reactance](engineer/oseec-006-capacitance-inductance-reactance.md) was published October 2, 2026.
 
 Rotation: Networking → Python → Linux → Windows → Electrical Engineering → OSETC → C++ → Networking. OSETC.011: Lockout/Tagout and Energy Isolation was published September 30, 2026. OSC++.011: Range-Based For Loops was published September 30, 2026. OSNTC.004: VLAN Basics was published September 30, 2026. OSPython.009: Virtual Environments was published October 1, 2026. Linux Command #31 – stat (Linux OS) was published October 1, 2026. Windows Command #19 – arp (Windows OS) was published October 1, 2026. OSEEC.005: AC Fundamentals was published October 1, 2026. OSETC.012: Grounding and Bonding Basics was published October 1, 2026. OSETC.013: Ground-Fault Circuit Interrupters (GFCIs) was published October 1, 2026. C++ is next in the rotation.
 
@@ -47,4 +47,7 @@ Rotation: Networking → Python → Linux → Windows → Electrical Engineering
 - Complete published lesson content is retained for offline study.
 - New electrical lessons must be assigned to Technician, Engineer, or Shared before the archive is considered organized.
 
-OSEEC titles use three-digit numbering throughout: OSEEC.000–OSEEC.005 are published. Published, scheduled, and draft engineer article titles and existing archive title metadata/headings were standardized September 30, 2026. Existing URLs, archive paths, and cover artwork are retained.
+OSEEC titles use three-digit numbering throughout: OSEEC.000–OSEEC.006 are published. Published, scheduled, and draft engineer article titles and existing archive title metadata/headings were standardized September 30, 2026. Existing URLs, archive paths, and cover artwork are retained.
+
+
+Latest verified rotation: OSEEC.006: Capacitance, Inductance, and Reactance was published October 2, 2026 and verified in WordPress and both GitHub archives. OSETC is next in the rotation. Verify its live sequence before publication.
