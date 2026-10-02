@@ -12,7 +12,7 @@ featured_image_url: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026
 featured_image_dimensions: "1200x630"
 youtube_1: "https://www.youtube.com/watch?v=qc3UcZiBjJQ"
 youtube_2: "https://www.youtube.com/watch?v=ix9cRaBkVe0"
-youtube_3: "https://www.youtube.com/watch?v=Jb3tG3zlxUg"
+youtube_3: "https://www.youtube.com/watch?v=HFW7eA9wUxY"
 ---
 
 # OSPython.014: Polymorphism Basics
@@ -39,7 +39,7 @@ print(cat.speak())</code></pre>
 <h2 class="wp-block-heading">Video 1: Polymorphism, overriding, and inheritance</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube">
 <div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center;display: block"><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/qc3UcZiBjJQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span></span>
+<span class="embed-youtube" style="text-align:center;display: block"><span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=qc3UcZiBjJQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span></span>
 </div><figcaption class="wp-element-caption"><em>Coding Analytics explains Python polymorphism together with method overriding and inheritance using practical examples.</em></figcaption></figure>
 <h2 class="wp-block-heading">Polymorphism with inheritance</h2>
 <pre class="wp-block-code"><code>class Animal:
@@ -63,7 +63,7 @@ for animal in animals:
 <h2 class="wp-block-heading">Video 2: Polymorphism in a full Python course</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube">
 <div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center;display: block"><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/ix9cRaBkVe0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span></span>
+<span class="embed-youtube" style="text-align:center;display: block"><span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=ix9cRaBkVe0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span></span>
 </div><figcaption class="wp-element-caption"><em>Bro Code’s Python course covers polymorphism at about 7:21:10, immediately after inheritance and super(), making it a useful visual continuation of OSPython.013.</em></figcaption></figure>
 <h2 class="wp-block-heading">Gaming example</h2>
 <pre class="wp-block-code"><code>class Player:
@@ -117,11 +117,11 @@ def start_game(device):
 start_game(Phone())
 start_game(Console())</code></pre>
 <p class="wp-block-paragraph"><code>start_game()</code> does not ask whether the object is a phone or console. It only uses the <code>play()</code> behavior that both objects provide.</p>
-<h2 class="wp-block-heading">Video 3: Polymorphism and duck typing</h2>
+<h2 class="wp-block-heading">Video 3: Polymorphism in Python</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube">
 <div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center;display: block"><span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/Jb3tG3zlxUg?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span></span>
-</div><figcaption class="wp-element-caption"><em>Python for Beginners demonstrates duck typing with unrelated classes and a shared operation.</em></figcaption></figure>
+<span class="embed-youtube" style="text-align:center;display: block"><span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=HFW7eA9wUxY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span></span>
+</div><figcaption class="wp-element-caption"><em>SDET-QA’s Python polymorphism tutorial reinforces polymorphic functions, method overriding, inheritance, and duck typing.</em></figcaption></figure>
 <h2 class="wp-block-heading">Polymorphism vs. inheritance</h2>
 <ul class="wp-block-list">
 <li><strong>Inheritance</strong> describes a relationship between classes and lets a child reuse a parent’s behavior.</li>
