@@ -12,8 +12,8 @@ featured_media_id: 20172
 featured_image_url: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/10/windows-command-27-net-share-cover-1200x630-1.png"
 featured_image_dimensions: "1200x630"
 youtube_1: "https://www.youtube.com/watch?v=JmVrqSVBu90"
-youtube_2: "https://www.youtube.com/watch?v=3buotRnNVvc"
-youtube_3: "https://www.youtube.com/watch?v=cvi31J9NjDQ"
+youtube_2: "https://www.youtube.com/watch?v=iAf3nb_nToQ"
+youtube_3: "https://www.youtube.com/watch?v=3kdavfiNogM"
 ---
 
 # Windows Command #27 – net share (Windows OS)
@@ -37,7 +37,7 @@ IPC$</code></pre>
 
 <h2 class="wp-block-heading">Video 1: Creating Windows network shares</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/JmVrqSVBu90?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=JmVrqSVBu90?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
 </div><figcaption class="wp-element-caption"><em>This demonstration includes the net share command as one method for creating Windows shared folders.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">Look at one specific share</h2>
@@ -51,10 +51,10 @@ IPC$</code></pre>
 
 <p class="wp-block-paragraph">Be deliberate when creating shares. A network share can expose files to other systems, and both share permissions and the folder&#8217;s normal Windows security permissions matter.</p>
 
-<h2 class="wp-block-heading">Video 2: List shared folders with net share</h2>
+<h2 class="wp-block-heading">Video 2: Windows file and folder sharing</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/3buotRnNVvc?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
-</div><figcaption class="wp-element-caption"><em>This Windows Server tutorial demonstrates net share as a quick way to list shared folders.</em></figcaption></figure>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=iAf3nb_nToQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
+</div><figcaption class="wp-element-caption"><em>This Windows Server tutorial demonstrates how shared folders are configured and used on a Windows network.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">net share vs. net use</h2>
 <p class="wp-block-paragraph">The previous lesson, <a href="https://bitcoinversus.tech/2026/10/02/windows-command-26-net-use/">Windows Command #26 – net use</a>, focuses on connecting your computer to a shared network resource. <code>net share</code> looks at the other side of that relationship: resources your local computer is making available.</p>
@@ -64,10 +64,10 @@ IPC$</code></pre>
 <pre class="wp-block-code"><code>net share Public /delete</code></pre>
 <p class="wp-block-paragraph">This removes the <strong>share</strong>. It does not mean “delete all the files in the folder.” Still, read the command carefully and verify the share name before changing a real system.</p>
 
-<h2 class="wp-block-heading">Video 3: Windows network folder sharing</h2>
+<h2 class="wp-block-heading">Video 3: Create a Windows network shared folder</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/cvi31J9NjDQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
-</div><figcaption class="wp-element-caption"><em>This walkthrough shows the broader Windows network-sharing process that net share helps inspect from the command line.</em></figcaption></figure>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=3kdavfiNogM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
+</div><figcaption class="wp-element-caption"><em>This focused walkthrough demonstrates creating a Windows network shared folder—the resource type that net share displays and manages.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">Simple workplace example</h2>
 <p class="wp-block-paragraph">A small office keeps common documents in <code>C:\TeamFiles</code>. The computer hosting those files can publish the folder as <code>TeamFiles</code>. Other authorized computers can then connect to that network share. If someone asks, “What is this computer currently sharing?”, <code>net share</code> gives you a quick command-line answer.</p>
