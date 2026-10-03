@@ -11,7 +11,7 @@ featured_media_id: 20181
 featured_image_url: "https://bitcoinversus.wordpress.com/wp-content/uploads/2026/10/oscpp-017-inheritance-basics-cover-1200x630-1.png"
 featured_image_dimensions: "1200x630"
 youtube_1: "https://www.youtube.com/watch?v=qYY9eR7Ldek"
-youtube_2: "https://www.youtube.com/watch?v=vuz6ezCN7uM"
+youtube_2: "https://www.youtube.com/watch?v=uTsROEjN1CY"
 youtube_3: "https://www.youtube.com/watch?v=jsNE1yGItx0"
 ---
 
@@ -58,7 +58,7 @@ int main() {
 
 <h2 class="wp-block-heading">Video 1: C++ inheritance from the beginning</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/qYY9eR7Ldek?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=qYY9eR7Ldek?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
 </div><figcaption class="wp-element-caption"><em>This beginner tutorial introduces inheritance, base classes, and derived classes in C++.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">The child can add its own feature</h2>
@@ -130,10 +130,10 @@ Car constructor</code></pre>
 
 <p class="wp-block-paragraph">Why? A <code>Car</code> contains its <code>Vehicle</code> base part, so C++ sets up that base part first.</p>
 
-<h2 class="wp-block-heading">Video 2: Constructors and destructors with inheritance</h2>
+<h2 class="wp-block-heading">Video 2: C++ inheritance and class relationships</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/vuz6ezCN7uM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
-</div><figcaption class="wp-element-caption"><em>This focused lesson shows the order in which base and derived constructors and destructors run.</em></figcaption></figure>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=uTsROEjN1CY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
+</div><figcaption class="wp-element-caption"><em>This focused C++ lesson reinforces how a derived class builds on a base class. It also introduces protected members as an additional inheritance concept.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">A derived class can provide its own version</h2>
 <pre class="wp-block-code"><code>class Vehicle {
@@ -161,7 +161,7 @@ int main() {
 
 <h2 class="wp-block-heading">Video 3: Redefining a base-class function</h2>
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe loading="lazy" class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/jsNE1yGItx0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></span>
+<span class="embed-youtube" style="text-align:center;display: block">[youtube https://www.youtube.com/watch?v=jsNE1yGItx0?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent&w=640&h=360]</span>
 </div><figcaption class="wp-element-caption"><em>This tutorial shows a derived C++ class defining its own version of a base-class function.</em></figcaption></figure>
 
 <h2 class="wp-block-heading">When inheritance makes sense</h2>
