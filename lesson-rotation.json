@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_at": "2026-10-08T15:22:00Z",
+  "updated_at": "2026-10-08T16:17:03Z",
   "rotation_expanded_on": "2026-10-08",
   "curriculum_registry": "curriculum.json",
   "coding_curriculum_registry": "coding-curriculum.json",
@@ -45,12 +45,12 @@
     "solidity"
   ],
   "last_completed": {
-    "subject": "firmware_technician",
+    "subject": "firmware_engineer",
     "lesson_number": 6,
-    "title": "OSFTC.006: Hardware/Firmware Compatibility — Board Revisions, Device IDs, Bootloaders, Peripherals, and Field Validation",
-    "wordpress_post_id": 21908,
-    "live_url": "https://bitcoinversus.tech/2026/10/08/osftc-006-hardware-firmware-compatibility-board-revisions-device-ids-bootloaders-peripherals-field-validation/",
-    "archive_path": "archive/2026/10/osftc-006-hardware-firmware-compatibility-board-revisions-device-ids-bootloaders-peripherals-field-validation.md",
+    "title": "OSFEC.006: Direct Memory Access (DMA) — Moving Data Without Stalling the CPU",
+    "wordpress_post_id": 21952,
+    "live_url": "https://bitcoinversus.tech/2026/10/08/osfec-006-direct-memory-access-dma-moving-data-without-stalling-the-cpu/",
+    "archive_path": "archive/2026/10/osfec-006-direct-memory-access-dma-moving-data-without-stalling-the-cpu.md",
     "verified_repositories": [
       "1freetech/Bitcoinversus.tech",
       "1freetech/techcert",
@@ -58,11 +58,11 @@
     ]
   },
   "next": {
-    "subject": "firmware_engineer",
+    "subject": "history_money_technology_bitcoin",
     "lesson_number": 6,
-    "title_format": "OSFEC.006: {topic}",
+    "title_format": "OSHistory.006: {topic}",
     "track_start": false,
-    "previous_lesson": "OSFEC.005"
+    "previous_lesson": "OSHistory.005"
   },
   "new_track_starts": {
     "javascript": {
@@ -172,8 +172,8 @@
     },
     "firmware_engineer": {
       "acronym": "OSFEC",
-      "lesson_number": 6,
-      "title_format": "OSFEC.006: {topic}"
+      "lesson_number": 7,
+      "title_format": "OSFEC.007: {topic}"
     },
     "history_money_technology_bitcoin": {
       "acronym": "OSHistory",
@@ -215,5 +215,5 @@
     "C+",
     "Zig++"
   ],
-  "numbering_note": "Existing verified tracks retain their current numbers, including OSPython and OSC++. New coding tracks begin at .001: OSJavaScript, OSJava, OSGo, OSCSharp, OSC, OSRust, OSSQL, OSBash, OSPowerShell, OSPHP, OSHTML, OSCSS, OSChef, OSShakespeare, OSDotNet, OSEmojicode, OSZig, and OSSolidity. C+ and Zig++ remain deferred until their intended language/toolchain meaning is defined. The immediate global next lesson remains OSFEC.006 after verified OSFTC.006."
+  "numbering_note": "OSFEC.006 is verified complete and archived in BitcoinVersus, TechCert, and OpenCert. The immediate global next lesson is OSHistory.006. Existing verified tracks retain their current numbers, including OSPython and OSC++. New coding tracks begin at .001: OSJavaScript, OSJava, OSGo, OSCSharp, OSC, OSRust, OSSQL, OSBash, OSPowerShell, OSPHP, OSHTML, OSCSS, OSChef, OSShakespeare, OSDotNet, OSEmojicode, OSZig, and OSSolidity. C+ and Zig++ remain deferred until their intended language/toolchain meaning is defined."
 }
