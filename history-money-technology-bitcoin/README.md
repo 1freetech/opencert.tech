@@ -2,11 +2,11 @@
 
 **Rotation key:** `history_money_technology_bitcoin`  
 **Status:** active  
-**Current next lesson:** `OSHistory.006`
+**Current next lesson:** `OSHistory.007`
 
 This track follows how humans solved coordination, accounting, exchange, storage, settlement, communication, and trust problems—from barter and commodity money through coinage, banking, telegraph networks, computing, cryptography, digital cash experiments, Bitcoin, mining, and modern monetary technology.
 
-Use filenames in the form `lesson-006-<topic-slug>.md` and continue sequentially.
+Use filenames in the form `lesson-007-<topic-slug>.md` and continue sequentially.
 
 ## Published lessons
 
@@ -15,5 +15,6 @@ Use filenames in the form `lesson-006-<topic-slug>.md` and continue sequentially
 - [OSHistory.003: Standardized Coinage — Weights, Mints, Seigniorage, and Trust](https://bitcoinversus.tech/2026/10/05/oshistory-003-standardized-coinage-weights-mints-seigniorage-trust/) — WordPress post 20879.
 - [OSHistory.004: Early Banking and Ledger Money — Deposits, Banknotes, Checks, and Reserves](https://bitcoinversus.tech/2026/10/05/oshistory-004-early-banking-ledger-money-deposits-banknotes-checks-reserves/) — WordPress post 21162.
 - [OSHistory.005: Bank Runs and the Rise of Central Banking — Panics, Clearinghouses, Lender of Last Resort, and Elastic Currency](../archive/2026/10/oshistory-005-bank-runs-rise-central-banking-panics-clearinghouses-lender-last-resort-elastic-currency.md) — WordPress post 21389.
+- [OSHistory.006: The Gold Standard — Convertibility, Parity, Reserves, and Redemption](../archive/2026/10/oshistory-006-gold-standard-convertibility-parity-reserves-redemption.md) — WordPress post 21958.
 
-The next lesson is `OSHistory.006`.
+The next lesson is `OSHistory.007`.
