@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "subject": "leadership",
+  "name": "Open Source Leadership Technical Certification",
+  "acronym": "OSLTC",
+  "title_format": "OSLTC.{number} — {topic}",
+  "status": "active",
+  "purpose": "Practical leadership training for technical teams, engineering, operations, data centers, field service, and other hands-on environments.",
+  "latest_lesson": {
+    "lesson_number": 1,
+    "title": "OSLTC.001 — How to Lead With Positive Reinforcement",
+    "wordpress_post_id": 22070,
+    "live_url": "https://bitcoinversus.tech/2026/10/08/osltc-001-how-to-lead-with-positive-reinforcement/",
+    "archive_path": "archive/2026/10/osltc-001-how-to-lead-with-positive-reinforcement.md",
+    "verification_status": "published_and_archived",
+    "verified_repositories": [
+      "1freetech/Bitcoinversus.tech",
+      "1freetech/techcert",
+      "1freetech/opencert.tech"
+    ]
+  },
+  "next_lesson_number": 2,
+  "lesson_scope_rule": "One lesson teaches one focused leadership concept or skill and includes practical application, exercises, and a knowledge check."
+}
