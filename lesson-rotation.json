@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_at": "2026-10-08T18:16:55Z",
+  "updated_at": "2026-10-08T18:44:05Z",
   "rotation_expanded_on": "2026-10-08",
   "curriculum_registry": "curriculum.json",
   "coding_curriculum_registry": "coding-curriculum.json",
@@ -46,11 +46,11 @@
   ],
   "last_completed": {
     "subject": "chef",
-    "lesson_number": 1,
-    "title": "OSChef.001: Program Structure — Ingredients, Mixing Bowls, Methods, and Serves",
-    "wordpress_post_id": 22043,
-    "live_url": "https://bitcoinversus.tech/2026/10/08/oschef-001-program-structure-ingredients-mixing-bowls-methods-and-serves/",
-    "archive_path": "archive/2026/10/oschef-001-program-structure-ingredients-mixing-bowls-methods-and-serves.md",
+    "lesson_number": 3,
+    "title": "OSChef.003: Add, Remove, Combine, and Divide",
+    "wordpress_post_id": 22067,
+    "live_url": "https://bitcoinversus.tech/2026/10/08/oschef-003-add-remove-combine-and-divide/",
+    "archive_path": "archive/2026/10/oschef-003-add-remove-combine-and-divide.md",
     "verified_repositories": [
       "1freetech/Bitcoinversus.tech",
       "1freetech/techcert",
@@ -89,7 +89,7 @@
     "firmware_technician": {"acronym": "OSFTC", "lesson_number": 7, "title_format": "OSFTC.007: {topic}"},
     "firmware_engineer": {"acronym": "OSFEC", "lesson_number": 7, "title_format": "OSFEC.007: {topic}"},
     "history_money_technology_bitcoin": {"acronym": "OSHistory", "lesson_number": 7, "title_format": "OSHistory.007: {topic}"},
-    "chef": {"acronym": "OSChef", "lesson_number": 2, "title_format": "OSChef.002: {topic}", "interpretation": "Chef esoteric programming language"},
+    "chef": {"acronym": "OSChef", "lesson_number": 4, "title_format": "OSChef.004: {topic}", "interpretation": "Chef esoteric programming language"},
     "shakespeare": {"acronym": "OSShakespeare", "lesson_number": 1, "title_format": "OSShakespeare.001: {topic}", "interpretation": "Shakespeare Programming Language (SPL)"},
     "dotnet": {"acronym": "OSDotNet", "lesson_number": 1, "title_format": "OSDotNet.001: {topic}"},
     "emojicode": {"acronym": "OSEmojicode", "lesson_number": 1, "title_format": "OSEmojicode.001: {topic}"},
@@ -97,5 +97,5 @@
     "solidity": {"acronym": "OSSolidity", "lesson_number": 1, "title_format": "OSSolidity.001: {topic}"}
   },
   "deferred_whiteboard_labels": ["C+", "Zig++"],
-  "numbering_note": "OSChef.001 is the Chef esoteric programming-language lesson and replaces the incorrect culinary lesson, which was removed from WordPress and all three archives. The immediate global next lesson is OSShakespeare.001 and must cover the Shakespeare Programming Language (SPL), not literature. Existing verified tracks retain their current numbers. OSChef advances to .002 for its next turn. C+ and Zig++ remain deferred until a verifiable intended language/toolchain meaning is established."
+  "numbering_note": "OSChef.001 through OSChef.003 are verified Chef esoteric programming-language lessons. The incorrect culinary Chef lesson and literary Shakespeare lesson were removed. The immediate global next lesson is OSShakespeare.001 and must cover the Shakespeare Programming Language (SPL), not literature. OSChef advances to .004 for its next turn. C+ and Zig++ remain deferred until a verifiable intended language/toolchain meaning is established."
 }
