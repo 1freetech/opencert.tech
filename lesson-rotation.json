@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "updated_at": "2026-10-08T16:17:03Z",
+  "updated_at": "2026-10-08T16:35:27Z",
   "rotation_expanded_on": "2026-10-08",
   "curriculum_registry": "curriculum.json",
   "coding_curriculum_registry": "coding-curriculum.json",
@@ -45,12 +45,12 @@
     "solidity"
   ],
   "last_completed": {
-    "subject": "firmware_engineer",
+    "subject": "history_money_technology_bitcoin",
     "lesson_number": 6,
-    "title": "OSFEC.006: Direct Memory Access (DMA) — Moving Data Without Stalling the CPU",
-    "wordpress_post_id": 21952,
-    "live_url": "https://bitcoinversus.tech/2026/10/08/osfec-006-direct-memory-access-dma-moving-data-without-stalling-the-cpu/",
-    "archive_path": "archive/2026/10/osfec-006-direct-memory-access-dma-moving-data-without-stalling-the-cpu.md",
+    "title": "OSHistory.006: The Gold Standard — Convertibility, Parity, Reserves, and Redemption",
+    "wordpress_post_id": 21958,
+    "live_url": "https://bitcoinversus.tech/2026/10/08/oshistory-006-gold-standard-convertibility-parity-reserves-redemption/",
+    "archive_path": "archive/2026/10/oshistory-006-gold-standard-convertibility-parity-reserves-redemption.md",
     "verified_repositories": [
       "1freetech/Bitcoinversus.tech",
       "1freetech/techcert",
@@ -58,11 +58,11 @@
     ]
   },
   "next": {
-    "subject": "history_money_technology_bitcoin",
-    "lesson_number": 6,
-    "title_format": "OSHistory.006: {topic}",
-    "track_start": false,
-    "previous_lesson": "OSHistory.005"
+    "subject": "chef",
+    "lesson_number": 1,
+    "title_format": "OSChef.001: {topic}",
+    "track_start": true,
+    "previous_lesson": null
   },
   "new_track_starts": {
     "javascript": {
@@ -177,8 +177,8 @@
     },
     "history_money_technology_bitcoin": {
       "acronym": "OSHistory",
-      "lesson_number": 6,
-      "title_format": "OSHistory.006: {topic}"
+      "lesson_number": 7,
+      "title_format": "OSHistory.007: {topic}"
     },
     "chef": {
       "acronym": "OSChef",
@@ -215,5 +215,5 @@
     "C+",
     "Zig++"
   ],
-  "numbering_note": "OSFEC.006 is verified complete and archived in BitcoinVersus, TechCert, and OpenCert. The immediate global next lesson is OSHistory.006. Existing verified tracks retain their current numbers, including OSPython and OSC++. New coding tracks begin at .001: OSJavaScript, OSJava, OSGo, OSCSharp, OSC, OSRust, OSSQL, OSBash, OSPowerShell, OSPHP, OSHTML, OSCSS, OSChef, OSShakespeare, OSDotNet, OSEmojicode, OSZig, and OSSolidity. C+ and Zig++ remain deferred until their intended language/toolchain meaning is defined."
+  "numbering_note": "OSHistory.006 is verified complete and archived in BitcoinVersus, TechCert, and OpenCert. The immediate global next lesson is OSChef.001. Existing verified tracks retain their current numbers, including OSPython and OSC++. New coding tracks begin at .001: OSJavaScript, OSJava, OSGo, OSCSharp, OSC, OSRust, OSSQL, OSBash, OSPowerShell, OSPHP, OSHTML, OSCSS, OSChef, OSShakespeare, OSDotNet, OSEmojicode, OSZig, and OSSolidity. C+ and Zig++ remain deferred until their intended language/toolchain meaning is defined."
 }
