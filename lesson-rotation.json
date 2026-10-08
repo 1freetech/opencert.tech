@@ -1,17 +1,31 @@
 {
-  "schema_version": 2,
-  "updated_at": "2026-10-08T15:06:09Z",
-  "rotation_expanded_on": "2026-10-04",
+  "schema_version": 3,
+  "updated_at": "2026-10-08T15:22:00Z",
+  "rotation_expanded_on": "2026-10-08",
   "curriculum_registry": "curriculum.json",
+  "coding_curriculum_registry": "coding-curriculum.json",
+  "rotation_policy": "Existing tracks keep their numbering. Full-stack whiteboard tracks above the line take priority over the specialized and esoteric tracks below the line. One lesson teaches one focused concept.",
   "rotation": [
     "networking",
     "python",
+    "javascript",
+    "java",
+    "go",
     "linux",
     "windows",
     "information_technology",
     "electrical_engineering",
     "electrical_technician",
     "cpp",
+    "csharp",
+    "c",
+    "rust",
+    "sql",
+    "bash",
+    "powershell",
+    "php",
+    "html",
+    "css",
     "semiconductor_technician",
     "semiconductor_engineer",
     "robotics_technician",
@@ -22,7 +36,13 @@
     "fiber_optics_engineer",
     "firmware_technician",
     "firmware_engineer",
-    "history_money_technology_bitcoin"
+    "history_money_technology_bitcoin",
+    "chef",
+    "shakespeare",
+    "dotnet",
+    "emojicode",
+    "zig",
+    "solidity"
   ],
   "last_completed": {
     "subject": "firmware_technician",
@@ -45,6 +65,66 @@
     "previous_lesson": "OSFEC.005"
   },
   "new_track_starts": {
+    "javascript": {
+      "acronym": "OSJavaScript",
+      "lesson_number": 1,
+      "title_format": "OSJavaScript.001: {topic}"
+    },
+    "java": {
+      "acronym": "OSJava",
+      "lesson_number": 1,
+      "title_format": "OSJava.001: {topic}"
+    },
+    "go": {
+      "acronym": "OSGo",
+      "lesson_number": 1,
+      "title_format": "OSGo.001: {topic}"
+    },
+    "csharp": {
+      "acronym": "OSCSharp",
+      "lesson_number": 1,
+      "title_format": "OSCSharp.001: {topic}"
+    },
+    "c": {
+      "acronym": "OSC",
+      "lesson_number": 1,
+      "title_format": "OSC.001: {topic}"
+    },
+    "rust": {
+      "acronym": "OSRust",
+      "lesson_number": 1,
+      "title_format": "OSRust.001: {topic}"
+    },
+    "sql": {
+      "acronym": "OSSQL",
+      "lesson_number": 1,
+      "title_format": "OSSQL.001: {topic}"
+    },
+    "bash": {
+      "acronym": "OSBash",
+      "lesson_number": 1,
+      "title_format": "OSBash.001: {topic}"
+    },
+    "powershell": {
+      "acronym": "OSPowerShell",
+      "lesson_number": 1,
+      "title_format": "OSPowerShell.001: {topic}"
+    },
+    "php": {
+      "acronym": "OSPHP",
+      "lesson_number": 1,
+      "title_format": "OSPHP.001: {topic}"
+    },
+    "html": {
+      "acronym": "OSHTML",
+      "lesson_number": 1,
+      "title_format": "OSHTML.001: {topic}"
+    },
+    "css": {
+      "acronym": "OSCSS",
+      "lesson_number": 1,
+      "title_format": "OSCSS.001: {topic}"
+    },
     "semiconductor_technician": {
       "acronym": "OSSTC",
       "lesson_number": 7,
@@ -99,7 +179,41 @@
       "acronym": "OSHistory",
       "lesson_number": 6,
       "title_format": "OSHistory.006: {topic}"
+    },
+    "chef": {
+      "acronym": "OSChef",
+      "lesson_number": 1,
+      "title_format": "OSChef.001: {topic}"
+    },
+    "shakespeare": {
+      "acronym": "OSShakespeare",
+      "lesson_number": 1,
+      "title_format": "OSShakespeare.001: {topic}"
+    },
+    "dotnet": {
+      "acronym": "OSDotNet",
+      "lesson_number": 1,
+      "title_format": "OSDotNet.001: {topic}"
+    },
+    "emojicode": {
+      "acronym": "OSEmojicode",
+      "lesson_number": 1,
+      "title_format": "OSEmojicode.001: {topic}"
+    },
+    "zig": {
+      "acronym": "OSZig",
+      "lesson_number": 1,
+      "title_format": "OSZig.001: {topic}"
+    },
+    "solidity": {
+      "acronym": "OSSolidity",
+      "lesson_number": 1,
+      "title_format": "OSSolidity.001: {topic}"
     }
   },
-  "numbering_note": "Current verified next numbers: OSNTC.019; OSPython.031; Linux Command #47; Windows Command #36; OSITC.003; OSEEC.016; OSETC.031; OSC++.025; OSSTC.007; OSSEC.007; OSRTC.007; OSREC.007; OSDCTC.007; OSDCEC.007; OSFOTC.007; OSFOEC.007; OSFTC.007; OSFEC.006; OSHistory.006. The global rotation advances to OSFEC.006 after verified OSFTC.006."
+  "deferred_whiteboard_labels": [
+    "C+",
+    "Zig++"
+  ],
+  "numbering_note": "Existing verified tracks retain their current numbers, including OSPython and OSC++. New coding tracks begin at .001: OSJavaScript, OSJava, OSGo, OSCSharp, OSC, OSRust, OSSQL, OSBash, OSPowerShell, OSPHP, OSHTML, OSCSS, OSChef, OSShakespeare, OSDotNet, OSEmojicode, OSZig, and OSSolidity. C+ and Zig++ remain deferred until their intended language/toolchain meaning is defined. The immediate global next lesson remains OSFEC.006 after verified OSFTC.006."
 }
