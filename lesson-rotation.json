@@ -1,10 +1,11 @@
 {
-  "schema_version": 3,
-  "updated_at": "2026-10-08T18:44:05Z",
+  "schema_version": 4,
+  "updated_at": "2026-10-08T21:10:26Z",
   "rotation_expanded_on": "2026-10-08",
   "curriculum_registry": "curriculum.json",
   "coding_curriculum_registry": "coding-curriculum.json",
-  "rotation_policy": "All whiteboard labels are interpreted as programming-language or programming-toolchain tracks first. If a label cannot be verified as a real language/toolchain with enough credible documentation to teach, discard that subject rather than inventing a non-programming lesson. Existing tracks keep their numbering. Full-stack whiteboard tracks above the line take priority over specialized and esoteric tracks below the line. One lesson teaches one focused concept.",
+  "leadership_curriculum_registry": "leadership-curriculum.json",
+  "rotation_policy": "Rotate every active Open CERT / TechCert subject in canonical order. Existing archived lessons remain authoritative history. One lesson teaches one focused concept. Programming-language whiteboard labels are interpreted as programming languages/toolchains first; unverifiable labels are discarded rather than converted into unrelated topics. Every published lesson must be verified live and archived identically to BitcoinVersus, TechCert, and OpenCert before the rotation advances.",
   "rotation": [
     "networking",
     "python",
@@ -42,15 +43,16 @@
     "dotnet",
     "emojicode",
     "zig",
-    "solidity"
+    "solidity",
+    "leadership"
   ],
   "last_completed": {
-    "subject": "chef",
-    "lesson_number": 3,
-    "title": "OSChef.003: Add, Remove, Combine, and Divide",
-    "wordpress_post_id": 22067,
-    "live_url": "https://bitcoinversus.tech/2026/10/08/oschef-003-add-remove-combine-and-divide/",
-    "archive_path": "archive/2026/10/oschef-003-add-remove-combine-and-divide.md",
+    "subject": "shakespeare",
+    "lesson_number": 1,
+    "title": "OSShakespeare.001 — How a Shakespeare Program Is Structured",
+    "wordpress_post_id": 22100,
+    "live_url": "https://bitcoinversus.tech/2026/10/08/osshakespeare-001-how-a-shakespeare-program-is-structured/",
+    "archive_path": "archive/2026/10/osshakespeare-001-how-a-shakespeare-program-is-structured.md",
     "verified_repositories": [
       "1freetech/Bitcoinversus.tech",
       "1freetech/techcert",
@@ -58,12 +60,12 @@
     ]
   },
   "next": {
-    "subject": "shakespeare",
+    "subject": "dotnet",
     "lesson_number": 1,
-    "title_format": "OSShakespeare.001: {topic}",
+    "title_format": "OSDotNet.001: {topic}",
     "track_start": true,
     "previous_lesson": null,
-    "interpretation": "Shakespeare Programming Language (SPL), not literature"
+    "interpretation": ".NET platform and runtime track"
   },
   "new_track_starts": {
     "javascript": {"acronym": "OSJavaScript", "lesson_number": 1, "title_format": "OSJavaScript.001: {topic}"},
@@ -90,12 +92,13 @@
     "firmware_engineer": {"acronym": "OSFEC", "lesson_number": 7, "title_format": "OSFEC.007: {topic}"},
     "history_money_technology_bitcoin": {"acronym": "OSHistory", "lesson_number": 7, "title_format": "OSHistory.007: {topic}"},
     "chef": {"acronym": "OSChef", "lesson_number": 4, "title_format": "OSChef.004: {topic}", "interpretation": "Chef esoteric programming language"},
-    "shakespeare": {"acronym": "OSShakespeare", "lesson_number": 1, "title_format": "OSShakespeare.001: {topic}", "interpretation": "Shakespeare Programming Language (SPL)"},
+    "shakespeare": {"acronym": "OSShakespeare", "lesson_number": 2, "title_format": "OSShakespeare.002: {topic}", "interpretation": "Shakespeare Programming Language (SPL)"},
     "dotnet": {"acronym": "OSDotNet", "lesson_number": 1, "title_format": "OSDotNet.001: {topic}"},
     "emojicode": {"acronym": "OSEmojicode", "lesson_number": 1, "title_format": "OSEmojicode.001: {topic}"},
     "zig": {"acronym": "OSZig", "lesson_number": 1, "title_format": "OSZig.001: {topic}"},
-    "solidity": {"acronym": "OSSolidity", "lesson_number": 1, "title_format": "OSSolidity.001: {topic}"}
+    "solidity": {"acronym": "OSSolidity", "lesson_number": 1, "title_format": "OSSolidity.001: {topic}"},
+    "leadership": {"acronym": "OSLTC", "lesson_number": 2, "title_format": "OSLTC.002 — {topic}", "interpretation": "Open Source Leadership Technical Certification"}
   },
   "deferred_whiteboard_labels": ["C+", "Zig++"],
-  "numbering_note": "OSChef.001 through OSChef.003 are verified Chef esoteric programming-language lessons. The incorrect culinary Chef lesson and literary Shakespeare lesson were removed. The immediate global next lesson is OSShakespeare.001 and must cover the Shakespeare Programming Language (SPL), not literature. OSChef advances to .004 for its next turn. C+ and Zig++ remain deferred until a verifiable intended language/toolchain meaning is established."
+  "numbering_note": "OSChef.001 through OSChef.003 are verified Chef esoteric programming-language lessons. OSShakespeare.001 is verified as Shakespeare Programming Language, not literature. OSLTC.001 is the verified leadership track start and Leadership now participates in the global rotation. The immediate global next lesson is OSDotNet.001. OSChef advances to .004 and OSShakespeare advances to .002 on their next turns. C+ and Zig++ remain deferred until a verifiable intended language/toolchain meaning is established."
 }
