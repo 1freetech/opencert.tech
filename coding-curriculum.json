@@ -66,8 +66,8 @@
     {
       "subject": "csharp",
       "name": "Open Source C#",
-      "acronym": "OSCSharp",
-      "title_format": "OSCSharp.{number}: {topic}",
+      "acronym": "OSC#",
+      "title_format": "OSC#.{number}: {topic}",
       "starting_lesson_number": 1,
       "status": "active",
       "lesson_stack": [".NET SDK and compiler", "Syntax", "Types", "Strings", "Collections", "Control flow", "Methods", "Classes", "Properties", "Interfaces", "Inheritance", "Exceptions", "Generics", "LINQ", "Files", "Async and await", "Delegates and events", "Dependency injection", "Testing", "Databases", "ASP.NET basics", "Web APIs", "Final project"]
