@@ -3,7 +3,7 @@
 **Rotation key:** `fiber_optics_technician`  
 **Status:** active  
 **Starting lesson:** `OSFOTC.001`  
-**Current next lesson:** `OSFOTC.011`
+**Current next lesson:** `OSFOTC.012`
 
 Hands-on fiber lessons covering connector types, cleaning, inspection, polarity, patching, bend radius, optical power, OLTS/OTDR, fusion splicing, installation, restoration, certification, transceiver handling, and practical fault isolation.
 
@@ -21,3 +21,6 @@ Canonical published lesson source is archived under `archive/YYYY/MM/` and mirro
 - [OSFOTC.008 — Fiber Troubleshooting and Restoration](https://bitcoinversus.tech/2026/10/11/osfotc-008-fiber-troubleshooting-restoration/) — WordPress post 23764.
 - [OSFOTC.009 — Fiber Optic Link Testing and Certification](https://bitcoinversus.tech/2026/10/12/osfotc-009-fiber-optic-link-testing-certification/) — WordPress post 24093.
 - [OSFOTC.010 — Optical Transceiver Installation and Troubleshooting](https://bitcoinversus.tech/2026/10/13/osfotc-010-optical-transceiver-installation-troubleshooting/) — WordPress post 24464.
+- [OSFOTC.011 — Fiber Patch Panels and ODF Management](https://bitcoinversus.tech/2026/10/14/osfotc-011-fiber-patch-panels-odf-management/) — WordPress post 24744; archived and source-matched across BitcoinVersus, TechCert, and Open CERT.
+
+**Next OSFOTC lesson number:** `OSFOTC.012`
