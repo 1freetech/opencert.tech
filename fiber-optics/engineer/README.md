@@ -3,7 +3,7 @@
 **Rotation key:** `fiber_optics_engineer`  
 **Status:** active  
 **Starting lesson:** `OSFOEC.001`  
-**Current next lesson:** `OSFOEC.011`
+**Current next lesson:** `OSFOEC.012`
 
 Engineering-level fiber lessons covering optical budgets, chromatic/modal dispersion, transceiver selection, wavelength systems, DWDM/CWDM, coherent optics, FEC, link design, reflectance, nonlinear effects, high-speed Ethernet optics, plant architecture, protection, and optical performance monitoring.
 
@@ -21,5 +21,6 @@ Use filenames in the form `lesson-001-<topic-slug>.md`. Engineer lessons focus o
 - [OSFOEC.008 — ROADM and Optical Line Systems](https://bitcoinversus.tech/2026/10/11/osfoec-008-roadm-optical-line-systems/) — WordPress post 23773.
 - [OSFOEC.009 — Optical Network Protection and Restoration](https://bitcoinversus.tech/2026/10/12/osfoec-009-optical-network-protection-restoration/) — WordPress post 24104.
 - [OSFOEC.010 — Optical Performance Monitoring and Telemetry](https://bitcoinversus.tech/2026/10/13/osfoec-010-optical-performance-monitoring-telemetry/) — WordPress post 24591; archived and source-matched across BitcoinVersus, TechCert, and Open CERT.
+- [OSFOEC.011 — Optical Transport Network Engineering](https://bitcoinversus.tech/2026/10/14/osfoec-011-optical-transport-network-engineering/) — WordPress post 24760; archived and source-matched across BitcoinVersus, TechCert, and Open CERT.
 
-**Next OSFOEC lesson number:** `OSFOEC.011`
+**Next OSFOEC lesson number:** `OSFOEC.012`
