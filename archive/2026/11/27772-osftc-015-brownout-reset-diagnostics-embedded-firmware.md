@@ -8,11 +8,12 @@ published: "2026-11-01"
 featured_media: 27771
 featured_image_dimensions: "1200x630"
 featured_cover_style: "Split-screen editorial diptych"
-in_story_media_count: 2
-in_story_youtube_video_ids: [QAEUu1lH87E, 3CRPPZh_HUE]
+in_story_media_count: 3
+in_story_media_ids: [27780, 27782, 27781]
+in_story_media_types: [licensed_microcontroller_photo, illustrative_line_chart, licensed_oscilloscope_photo]
+external_training_video_links: ["https://www.microchip.com/en-us/about/media-center/videos/G90Xd2ssxog", "https://www.youtube.com/watch?v=AFF7MMOkZtE"]
 footer_donation_qr_id: 24043
-category_ids: [2509703]
-qa_status: "published; WordPress source readback verified; independent live embed playback and mobile/desktop screenshots not verified"
+qa_status: "published; WordPress rendered HTML confirms 3 in-body images and source license captions. Native YouTube blocks failed to render players; replaced with licensed photos/chart and external video links. Independent browser screenshots and video playback not tested."
 ---
 
 <!-- wp:paragraph --><p><strong>Brownout reset diagnostics</strong> is the practice of determining whether a microcontroller rebooted because its power-supply voltage fell below a device-defined safe threshold. In embedded systems, a brief voltage dip can look like a firmware crash, a watchdog fault, or an intermittent communication failure. The distinguishing evidence comes from the actual voltage waveform, the chip's reset-cause status, the power-system design, and the circumstances under which the reset repeats. This Firmware Technician course entry is cataloged internally as <strong>OSFTC.015</strong>. It follows <a href="https://bitcoinversus.tech/2026/10/29/osftc-014-mcuboot-test-upgrades-image-confirmation-revert-recovery-validation/">MCUboot upgrade recovery validation</a> and builds upon <a href="https://bitcoinversus.tech/2026/10/13/osftc-010-firmware-crash-logs-fault-recovery/">firmware crash logs</a>. Its main purpose is to prevent technicians from re-flashing otherwise healthy firmware when the board really has an electrical supply problem.</p><!-- /wp:paragraph -->
@@ -29,15 +30,19 @@ qa_status: "published; WordPress source readback verified; independent live embe
 
 <!-- wp:paragraph --><p>Multiple reset indications can coexist, and some flags remain latched until software clears them. A reset register is <strong>evidence, not a complete diagnosis</strong>. Record it before clearing; correlate it with a measured voltage trace and recent device activity.</p><!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=QAEUu1lH87E","type":"video","providerNameSlug":"youtube","responsive":true} --><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=QAEUu1lH87E</div><figcaption class="wp-element-caption"><em>gkrsoft — Microcontroller reset mechanisms, including power-on, external, watchdog, software and brownout resets (2025).</em></figcaption></figure><!-- /wp:embed -->
+<!-- wp:image {"id":27780,"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://bitcoinversus.wordpress.com/wp-content/uploads/2026/11/osftc015-arduino-uno-cc0-jrawx.jpg" alt="Arduino Uno microcontroller development board photographed from above" class="wp-image-27780" /><figcaption class="wp-element-caption"><em>Arduino Uno microcontroller board. Photo: <a href="https://commons.wikimedia.org/wiki/File:Arduino_Uno_board.jpg">JrawX / Wikimedia Commons</a>, CC0 1.0. Demonstration hardware; brownout limits depend on the installed microcontroller.</em></figcaption></figure><!-- /wp:image -->
 
-<!-- wp:paragraph --><p>The video introduces the categories. In a service environment, the technician's next step is to verify which category the <em>specific device</em> can distinguish and which reset flags survive its startup sequence. Recording only “it rebooted” loses the most useful forensic information.</p><!-- /wp:paragraph -->
+<!-- wp:paragraph --><p><em>Related external video: <a href="https://www.microchip.com/en-us/about/media-center/videos/G90Xd2ssxog">Microchip — AVR Insights, Episode 19: Brown Out Detector</a>, a manufacturer tutorial on brownout reset detection. The video opens on Microchip's official website because the site's native YouTube player is not rendering.</em></p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>The Microchip tutorial explains why an AVR device must be protected from low supply voltage and how its brownout detector holds the MCU in reset. The technician's next step is to verify the <em>specific device</em> and which reset flags survive its startup sequence. Recording only “it rebooted” loses the most useful forensic information.</p><!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":2} --><h2 class="wp-block-heading">How low supply voltage causes a reboot</h2><!-- /wp:heading -->
 
 <!-- wp:paragraph --><p>Suppose a board normally operates from a 3.3 V rail. Its CPU, flash memory and peripherals have published voltage limits, often related to clock speed and temperature. A wireless transmitter, motor driver, storage write or peripheral startup can draw a short burst of current. If the regulator responds poorly, the cable has excessive resistance, the battery is depleted or a solder joint is defective, the supply at the microcontroller can sag. The chip may reset if the brownout monitor sees its programmed threshold crossed. <a href="https://support.microchip.com/s/article/My-device-resets-from-clocks-starting-up-and-or-current-draw-increasing">Microchip's August 2026 troubleshooting guidance</a> identifies regulators, power-sequencing issues, inrush current, batteries and soldering faults as plausible startup-reset causes.</p><!-- /wp:paragraph -->
 
 <!-- wp:paragraph --><p>A reset threshold is not a universal minimum operating voltage. A useful design must consider the supply-voltage requirement for the chosen clock frequency, oscillator, flash operations, peripherals and expected temperature. The detector's accuracy, hysteresis and response time also matter. A very short spike may be rejected by the detector, or may be missed by a slow logging system; an oscilloscope helps reveal events that ordinary telemetry averages away.</p><!-- /wp:paragraph -->
+
+<!-- wp:image {"id":27782,"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://bitcoinversus.wordpress.com/wp-content/uploads/2026/11/osftc015-illustrative-mcu-rail-brownout-dip-chart.png" alt="Illustrative chart showing a 3.3-volt microcontroller power rail dipping to 2.6 volts and returning to 3.3 volts over four milliseconds" class="wp-image-27782" /><figcaption class="wp-element-caption"><em>Illustrative 3.3 V-to-2.6 V supply dip during a load event. Chart Atlas teaching example, not a measured oscilloscope trace or a universal brownout threshold.</em></figcaption></figure><!-- /wp:image -->
 
 <!-- wp:heading {"level":2} --><h2 class="wp-block-heading">The brownout detector, voltage monitor and reset flag</h2><!-- /wp:heading -->
 
@@ -57,9 +62,11 @@ qa_status: "published; WordPress source readback verified; independent live embe
 
 <!-- wp:paragraph --><p>The team compares the captured waveform with the approved supply design and the MCU reset flags. If the flags agree with an undervoltage event, the likely investigation shifts from firmware flashing to battery internal resistance, regulator current capacity, power distribution and local decoupling. If the reset is actually watchdog-induced, investigate whether the power dip first disrupted code execution or whether an unrelated scheduling issue occurred. A responsible repair log separates <strong>observed facts</strong>, <strong>working hypotheses</strong> and <strong>confirmed cause</strong>.</p><!-- /wp:paragraph -->
 
-<!-- wp:embed {"url":"https://www.youtube.com/watch?v=3CRPPZh_HUE","type":"video","providerNameSlug":"youtube","responsive":true} --><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=3CRPPZh_HUE</div><figcaption class="wp-element-caption"><em>CS &amp; IT Tutorials by Vrushali — Watchdog timers, power-down modes, brownout reset and power-on reset in PIC microcontrollers (2022).</em></figcaption></figure><!-- /wp:embed -->
+<!-- wp:image {"id":27781,"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://bitcoinversus.wordpress.com/wp-content/uploads/2026/11/osftc015-digital-oscilloscope-radarvector-commons.jpg" alt="Digital oscilloscope on an electronics lab workbench displaying a measured voltage waveform" class="wp-image-27781" /><figcaption class="wp-element-caption"><em>Digital oscilloscope in use. Photo: <a href="https://commons.wikimedia.org/wiki/File:Digital_oscilloscope_in_use.jpg">Radarvector / Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; no changes. Photograph illustrates test instrumentation, not a waveform from this lesson.</em></figcaption></figure><!-- /wp:image -->
 
-<!-- wp:paragraph --><p>This second tutorial focuses on reset concepts in a PIC-oriented architecture. Treat its conceptual examples as an introduction; before interpreting a modern board, consult the installed microcontroller's family reference manual for the correct reset register, threshold and configuration bits.</p><!-- /wp:paragraph -->
+<!-- wp:paragraph --><p><em>Related external video: <a href="https://www.youtube.com/watch?v=AFF7MMOkZtE">element14 presents — How to Measure Ripple Voltage on a Switch-Mode Supply</a>, an English-language oscilloscope tutorial. Watch on YouTube; in-page YouTube playback is not confirmed on this site.</em></p><!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>The element14 video demonstrates how an oscilloscope reveals power-supply ripple and noise that a multimeter can miss. Consult the installed microcontroller's reference manual for BOR status and voltage limits.</p><!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":2} --><h2 class="wp-block-heading">Practical scenario: the system loops during startup</h2><!-- /wp:heading -->
 
